@@ -29,7 +29,7 @@ conda create -n labelu python=3.10
 ### Activate virtual environment
 
 ```bash
-conda activate labelu
+conda activate label
 ```
 
 ### Install labelu
